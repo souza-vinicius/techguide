@@ -259,7 +259,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "BOOK",
+              "type": "SITE",
               "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
               "link": "https://teamtopologies.com/book"
             },
