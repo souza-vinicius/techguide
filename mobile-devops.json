@@ -20,17 +20,17 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
               "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
             },
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
               "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
             },
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
               "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
             }
@@ -43,7 +43,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Jenkins e Docker: Pipeline de entrega contínua",
               "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
             },
@@ -61,7 +61,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Python e orientação a objetos",
               "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
             }
@@ -79,12 +79,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Ansible: sua infraestrutura como código",
               "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
             },
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
@@ -102,7 +102,7 @@
               "link": "https://argo-cd.readthedocs.io/en/stable/"
             },
             {
-              "type": "COURSE",
+              "type": "SITE",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
