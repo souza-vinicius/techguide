@@ -11,21 +11,21 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Linux I: conhecendo e utilizando o terminal",
               "link": "https://unibb.alura.com.br/course/linux-ubuntu"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Linux II: programas, processos e pacotes",
               "link": "https://unibb.alura.com.br/course/linux-ubuntu-processos"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Shell Scripting parte 1",
               "link": "https://unibb.alura.com.br/course/shellscripting"
             },            {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Shell Scripting parte 2",
               "link": "https://unibb.alura.com.br/course/shellscripting-parte-2"
             }
@@ -38,7 +38,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Docker: Criando containers sem dor de cabeça",
               "link": "https://unibb.alura.com.br/course/docker-e-docker-compose"
             }
@@ -54,17 +54,17 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
               "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
               "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
               "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
             }
@@ -77,7 +77,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Jenkins e Docker: Pipeline de entrega contínua",
               "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
             },
@@ -95,7 +95,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Python e orientação a objetos",
               "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
             }
@@ -113,12 +113,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Ansible: sua infraestrutura como código",
               "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
@@ -136,7 +136,7 @@
               "link": "https://argo-cd.readthedocs.io/en/stable/"
             },
             {
-              "type": "ALURAPLUS",
+              "type": "COURSE",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
