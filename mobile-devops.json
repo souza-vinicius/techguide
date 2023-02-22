@@ -5,48 +5,10 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Fundamentos do Sistema Operacional Linux",
-          "short-description": "Fundamentos de Linux",
-          "key-objectives": [
-            "Objetivo 1",
-            "Objetivo 2",
-            "Objetivo 3"
-          ],
-          "additional-objectives": [],
-          "contents": [
-            {
-              "type": "COURSE",
-              "title": "Linux I: conhecendo e utilizando o terminal",
-              "link": "https://unibb.alura.com.br/course/linux-ubuntu"
-            },
-            {
-              "type": "COURSE",
-              "title": "Linux II: programas, processos e pacotes",
-              "link": "https://unibb.alura.com.br/course/linux-ubuntu-processos"
-            },
-            {
-              "type": "COURSE",
-              "title": "Shell Scripting parte 1",
-              "link": "https://unibb.alura.com.br/course/shellscripting"
-            },            {
-              "type": "COURSE",
-              "title": "Shell Scripting parte 2",
-              "link": "https://unibb.alura.com.br/course/shellscripting-parte-2"
-            }
-          ]
+          "id": "linux-fundamentals"
         },
         {
-          "name": "Introdução a containers com Docker",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "COURSE",
-              "title": "Docker: Criando containers sem dor de cabeça",
-              "link": "https://unibb.alura.com.br/course/docker-e-docker-compose"
-            }
-          ]
+          "id": "containers"
         },
         {
           "id": "git-and-github-fundamentals"
