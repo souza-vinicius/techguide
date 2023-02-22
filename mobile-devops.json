@@ -15,30 +15,30 @@
         },
         {
           "name": "Fundamentos de DevOps",
-          "short-description": "Descrição do Cartão",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
+              "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
               "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
             },
             {
               "type": "SITE",
-              "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
+              "title": "Entrega Contínua: confiabilidade e qualidade na implantacao de software",
               "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
             },
             {
               "type": "SITE",
-              "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
+              "title": "The Twelve-Factor App: Metodologia para construcao de aplicacões robustas",
               "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
             }
           ]
         },
         {
           "name": "Ferramentas de CI/CD",
-          "short-description": "Descrição do Cartão",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
@@ -49,20 +49,20 @@
             },
             {
               "type": "SITE",
-              "title": "Documentação do Gitlab CI",
+              "title": "Documentacao do Gitlab CI",
               "link": "https://docs.gitlab.com/ee/ci/"
             }
           ]
         },
         {
-          "name": "Programação",
-          "short-description": "Descrição do Cartão",
+          "name": "Programacao",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Python e orientação a objetos",
+              "title": "Python e orientacao a objetos",
               "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
             }
           ]
@@ -73,38 +73,18 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "name": "Infraestrutura como Código",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Ansible: sua infraestrutura como código",
-              "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
-            },
-            {
-              "type": "SITE",
-              "title": "Terraform: automatize a infraestrutura na nuvem",
-              "link": "https://unibb.alura.com.br/course/terraform"
-            }
-          ]
+          "id": "cloud-fundamentals"
         },
         {
           "name": "GitOps",
-          "short-description": "Descrição do Cartão",
+          "short-description": "GitOps",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Documentação do ArgoCD",
+              "title": "Portal do ArgoCD",
               "link": "https://argo-cd.readthedocs.io/en/stable/"
-            },
-            {
-              "type": "SITE",
-              "title": "Terraform: automatize a infraestrutura na nuvem",
-              "link": "https://unibb.alura.com.br/course/terraform"
             }
           ]
         }
@@ -113,11 +93,11 @@
   ],
   "collaboration": [
     {
-      "name": "Release e Distribuição de apps mobile",
+      "name": "Release e Distribuicao de apps mobile",
       "cards": [
         {
-          "name": "Build e Distribuição de apps Android",
-          "short-description": "Descrição do Cartão",
+          "name": "Build e Distribuicao de apps Android",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
@@ -143,25 +123,25 @@
             },
             {
               "type": "ARTICLE",
-              "title": "Ajuda do Play Console: Preparar e lançar uma versão",
+              "title": "Ajuda do Play Console: Preparar e lancar uma versao",
               "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
             },
             {
               "type": "SITE",
-              "title": "Documentação do Gradle",
+              "title": "Documentacao do Gradle",
               "link": "https://docs.gradle.org/current/userguide/userguide.html"
             }
           ]
         },
         {
-          "name": "Build e Distribuição de apps iOS",
-          "short-description": "Descrição do Cartão",
+          "name": "Build e Distribuicao de apps iOS",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Documentação do Xcode",
+              "title": "Documentacao do Xcode",
               "link": "https://developer.apple.com/documentation/xcode"
             },
             {
@@ -188,13 +168,13 @@
         },
         {
           "name": "Mobile DevOps com Fastlane",
-          "short-description": "Descrição do Cartão",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Documentação do Fastlane",
+              "title": "Documentacao do Fastlane",
               "link": "https://docs.fastlane.tools/"
             },
             {
@@ -216,7 +196,7 @@
       "cards": [
         {
           "name": "Fundamentals of Platform Engineering",
-          "short-description": "Descrição do Cartão",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
@@ -259,7 +239,7 @@
         },
         {
           "name": "Buildind an Internal Developer Platform",
-          "short-description": "Descrição do Cartão",
+          "short-description": "Descricao do Cartao",
           "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
