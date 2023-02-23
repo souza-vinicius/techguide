@@ -74,6 +74,55 @@
         "name": "Nivel 2 - Intermediário",
         "cards": [
           {
+            "name": "Ferramentas de build (npm, maven, pip, etc)",
+            "short-description": "",
+            "key-objectives": [
+              "As ferramentas de build são o principal mecanismo pelos quais o build das aplicações são realizados",
+              "Conhecer o funcionamento dessas ferramentas é crucial para o atendimento das necessidades dos desenvolvedores",
+              "Compreender e utilizar o Maven para o build de aplicações java",
+              "Compreender e utilizar o Gradle para o build de aplicações android",
+              "Compreender e utilizar o npm e yarn para o build de aplicações javascript",
+            ],
+            "additional-objectives": [],
+            "contents": [
+              {
+                "type": "ALURAPLUS",
+                "title": "Maven: gerenciamento de dependências e build de aplicações Java",
+                "link": "https://unibb.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "Maven Getting Started Guide",
+                "link": "https://maven.apache.org/guides/getting-started/"
+              },
+              {
+                "type": "YOUTUBE",
+                "title": "Apache Maven para programadores Java iniciantes",
+                "link": "https://www.youtube.com/watch?v=ZQICkNszEuI"
+              },
+              {
+                "type": "YOUTUBE",
+                "title": "Gradle for Android and Java | Udacity",
+                "link": "https://www.youtube.com/playlist?list=PLAwxTw4SYaPk2JP5TFPx7g63PCkyBqjZn"
+              },
+              {
+                "type": "SITE",
+                "title": "Documentação do Gradle",
+                "link": "https://docs.gradle.org/current/userguide/userguide.html"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "The Complete Guide To Npm",
+                "link": "https://medium.com/analytics-vidhya/the-complete-guide-to-npm-ac52fbc43f6c"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "NPM vs Yarn",
+                "link": "https://www.alura.com.br/artigos/npm-vs-yarn"
+              }
+            ]
+          },
+          {
             "id": "containers"
           },
           {
@@ -154,11 +203,6 @@
                 "type": "ARTICLE",
                 "title": "Ajuda do Play Console: Preparar e lançar uma versão",
                 "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
-              },
-              {
-                "type": "SITE",
-                "title": "Documentação do Gradle",
-                "link": "https://docs.gradle.org/current/userguide/userguide.html"
               }
             ]
           },
