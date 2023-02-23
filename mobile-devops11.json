@@ -103,48 +103,11 @@
     "collaboration": [
       {
         "name": "Release e Distribuição de apps mobile",
-        "cards": [
-          {
-            "name": "Build e Distribuição de apps Android",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": []
-          },
-          {
-            "name": "Build e Distribuição de apps iOS",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": []
-          },
-          {
-            "name": "Mobile DevOps com Fastlane",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": []
-          }
-        ]
+        "cards": []
       },
       {
         "name": "Platform Engineering",
-        "cards": [
-          {
-            "name": "Fundamentals of Platform Engineering",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": []
-          },
-          {
-            "name": "Buildind an Internal Developer Platform",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": []
-          }
-        ]
+        "cards": []
       }
     ]
   }
