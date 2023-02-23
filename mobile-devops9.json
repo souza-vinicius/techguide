@@ -109,39 +109,21 @@
             "short-description": "Descrição do Cartão",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": [
-              {
-                "type": "ARTICLE",
-                "title": "Portal Android Developers: Configurar seu build",
-                "link": "https://developer.android.com/studio/build?hl=pt-br"
-              }
-            ]
+            "contents": []
           },
           {
             "name": "Build e Distribuição de apps iOS",
             "short-description": "Descrição do Cartão",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": [
-              {
-                "type": "SITE",
-                "title": "Documentação do Xcode",
-                "link": "https://developer.apple.com/documentation/xcode"
-              }
-            ]
+            "contents": []
           },
           {
             "name": "Mobile DevOps com Fastlane",
             "short-description": "Descrição do Cartão",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": [
-              {
-                "type": "SITE",
-                "title": "Documentação do Fastlane",
-                "link": "https://docs.fastlane.tools/"
-              }
-            ]
+            "contents": []
           }
         ]
       },
@@ -153,26 +135,14 @@
             "short-description": "Descrição do Cartão",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": [
-              {
-                "type": "SITE",
-                "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
-                "link": "https://teamtopologies.com/book"
-              }
-            ]
+            "contents": []
           },
           {
             "name": "Buildind an Internal Developer Platform",
             "short-description": "Descrição do Cartão",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-            "contents": [
-              {
-                "type": "ARTICLE", 
-                "title": "Five reasons why an Internal Developer Platform is worth it",
-                "link": "https://platformengineering.org/blog/five-reasons-why-an-internal-developer-platform-is-worth-it"
-              }
-            ]
+            "contents": []
           }
         ]
       }
