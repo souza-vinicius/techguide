@@ -114,31 +114,6 @@
                 "type": "ARTICLE",
                 "title": "Portal Android Developers: Configurar seu build",
                 "link": "https://developer.android.com/studio/build?hl=pt-br"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Portal Android Developers: Otimizar a velocidade do seu build",
-                "link": "https://developer.android.com/studio/build/optimize-your-build?hl=pt-br"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Portal Android Developers: Crie seu app na linha de comando",
-                "link": "https://developer.android.com/studio/build/building-cmdline?hl=pt-br"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Portal Android Developers: Publicar o app",
-                "link": "https://developer.android.com/studio/publish?hl=pt-br"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Ajuda do Play Console: Preparar e lançar uma versão",
-                "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
-              },
-              {
-                "type": "SITE",
-                "title": "Documentação do Gradle",
-                "link": "https://docs.gradle.org/current/userguide/userguide.html"
               }
             ]
           },
@@ -152,26 +127,6 @@
                 "type": "SITE",
                 "title": "Documentação do Xcode",
                 "link": "https://developer.apple.com/documentation/xcode"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Building from the Command Line with Xcode FAQ",
-                "link": "https://developer.apple.com/library/archive/technotes/tn2339/_index.html"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "About continuous integration and delivery with Xcode Cloud",
-                "link": "https://developer.apple.com/documentation/xcode/about-continuous-integration-and-delivery-with-xcode-cloud"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Build iOS apps from the command line using xcodebuild",
-                "link": "https://tarikdahic.com/posts/build-ios-apps-from-the-command-line-using-xcodebuild/"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Portal iMasters: Entendendo Certificados e Provisioning Profiles do iOS",
-                "link": "https://imasters.com.br/desenvolvimento/entendendo-certificados-e-provisioning-profiles-do-ios/"
               }
             ]
           },
@@ -185,16 +140,6 @@
                 "type": "SITE",
                 "title": "Documentação do Fastlane",
                 "link": "https://docs.fastlane.tools/"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Mobile DevOps with GitLab, Part 3 - Code signing for iOS with GitLab CI and Fastlane",
-                "link": "https://about.gitlab.com/blog/2022/10/03/mobile-devops-with-gitlab-part-3-code-signing-for-ios-with-gitlab-and-fastlane/"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Automating mobile application deployments using Fastlane and CI/CD tools",
-                "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
               }
             ]
           }
@@ -213,36 +158,6 @@
                 "type": "SITE",
                 "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
                 "link": "https://teamtopologies.com/book"
-              },
-              {
-                "type": "ARTICLE", 
-                "title": "What is Platform Engineering",
-                "link": "https://platformengineering.org/blog/what-is-platform-engineering"
-              },
-              {
-                "type": "ARTICLE", 
-                "title": "Platform Engineering: What Is It and Who Does It?",
-                "link": "https://thenewstack.io/platform-engineering-what-is-it-and-who-does-it/"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Whose cognitive load is it anyway?",
-                "link": "https://platformengineering.org/blog/cognitive-load"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "SRE vs. DevOps vs. Platform Engineering",
-                "link": "https://thenewstack.io/sre-vs-devops-vs-platform-engineering/"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Why platform teams need to ship workflows",
-                "link": "https://platformengineering.org/blog/why-platform-teams-need-to-ship-workflows"
-              },
-              {
-                "type": "YOUTUBE",
-                "title": "Platform Enginnering: Platform Stories Playlist - PlatforCon 2022",
-                "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBo6t2JeWR2ZXDehY5tTlad"
               }
             ]
           },
@@ -256,38 +171,7 @@
                 "type": "ARTICLE", 
                 "title": "Five reasons why an Internal Developer Platform is worth it",
                 "link": "https://platformengineering.org/blog/five-reasons-why-an-internal-developer-platform-is-worth-it"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Hitting the right level of abstractions when building an Internal Developer Platform",
-                "link": "https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "What to build first: the house or the front door?",
-                "link": "https://platformengineering.org/blog/what-to-build-first-the-house-or-the-front-door"
-              },
-              {
-                "type": "ARTICLE",
-                "title": "Why platform teams need to ship workflows",
-                "link": "https://platformengineering.org/blog/why-platform-teams-need-to-ship-workflows"
-              },
-              {
-                "type": "YOUTUBE",
-                "title": "Platform Enginnering: Platform Design Playlist - PlatformCon 2022",
-                "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBDx2L-IPSR3qU5ujnA62gC"
-              },
-              {
-                "type": "YOUTUBE",
-                "title": "Platform Enginnering: Platform Tech Playlist - PlatformCon 2022",
-                "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBUUv3Qixa0UziI630YsCCM"
-              },
-              {
-                "type": "YOUTUBE",
-                "title": "Platform Enginnering: Platform Culture Playlist - PlatformCon 2022",
-                "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfCIiL2OjNA_JtiuUTbSUsO0"
               }
-  
             ]
           }
         ]
