@@ -43,16 +43,19 @@
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
               {
-                "type": "COURSE",
+                "type": "ALURAPLUS",
                 "title": "Jenkins e Docker: Pipeline de entrega contínua",
                 "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
               },
               {
-                "type": "ALURAPLUS",
+                "type": "SITE",
                 "title": "Documentação do Gitlab CI",
                 "link": "https://docs.gitlab.com/ee/ci/"
               }
             ]
+          },
+          {
+            "id": "python-fundamentals"
           }
         ]
       },
@@ -60,19 +63,40 @@
         "name": "Nivel 2 - Intermediário",
         "cards": [
           {
-            "name": "Nome do Cartão Customizado 2",
-            "description": "Descrição do Cartão 2",
-            "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
+            "name": "Infraestrutura como Código",
+            "short-description": "Descrição do Cartão",
+            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
               {
-                "type": "SITE",
-                "title": "Node.js - Documentation",
-                "link": "https://nodejs.dev/en/learn/"
+                "type": "COURSE",
+                "title": "Ansible: sua infraestrutura como código",
+                "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
+              },
+              {
+                "type": "COURSE",
+                "title": "Terraform: automatize a infraestrutura na nuvem",
+                "link": "https://unibb.alura.com.br/course/terraform"
               }
             ]
           },
           {
-            "id": "apollo-client"
+            "name": "GitOps",
+            "short-description": "Descrição do Cartão",
+            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "contents": [
+              {
+                "type": "SITE",
+                "title": "Documentação do ArgoCD",
+                "link": "https://argo-cd.readthedocs.io/en/stable/"
+              },
+              {
+                "type": "COURSE",
+                "title": "Terraform: automatize a infraestrutura na nuvem",
+                "link": "https://unibb.alura.com.br/course/terraform"
+              }
+            ]
           }
         ]
       },
