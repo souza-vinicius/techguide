@@ -20,17 +20,17 @@
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
               {
-                "type": "ALURA",
+                "type": "ALURAPLUS",
                 "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
                 "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
               },
               {
-                "type": "ALURA",
+                "type": "ALURAPLUS",
                 "title": "Entrega Contínua: confiabilidade e qualidade na implantacao de software",
                 "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
               },
               {
-                "type": "ALURA",
+                "type": "ALURAPLUS",
                 "title": "The Twelve-Factor App: Metodologia para construcao de aplicacões robustas",
                 "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
               }
@@ -48,7 +48,7 @@
                 "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
               },
               {
-                "type": "ALURA",
+                "type": "ALURAPLUS",
                 "title": "Documentação do Gitlab CI",
                 "link": "https://docs.gitlab.com/ee/ci/"
               }
