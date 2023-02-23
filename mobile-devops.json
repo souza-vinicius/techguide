@@ -1,71 +1,23 @@
 {
-  "name": "Mobile DevOps",
-  "expertise": [
+  "name": "Nome do Guia",
+  "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "id": "linux-fundamentals"
-        },
-        {
-          "id": "containers"
-        },
-        {
-          "id": "git-and-github-fundamentals"
-        },
-        {
-          "name": "Fundamentos de DevOps",
-          "short-description": "Descricao do Cartao",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "name": "Nome do Cartão Customizado",
+          "description": "Descrição do Cartão",
+          "keyObjectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
-              "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
-            },
-            {
-              "type": "SITE",
-              "title": "Entrega Contínua: confiabilidade e qualidade na implantacao de software",
-              "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
-            },
-            {
-              "type": "SITE",
-              "title": "The Twelve-Factor App: Metodologia para construcao de aplicacões robustas",
-              "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
             }
           ]
         },
         {
-          "name": "Ferramentas de CI/CD",
-          "short-description": "Descricao do Cartao",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Jenkins e Docker: Pipeline de entrega contínua",
-              "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
-            },
-            {
-              "type": "SITE",
-              "title": "Documentacao do Gitlab CI",
-              "link": "https://docs.gitlab.com/ee/ci/"
-            }
-          ]
-        },
-        {
-          "name": "Programacao",
-          "short-description": "Descricao do Cartao",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Python e orientacao a objetos",
-              "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
-            }
-          ]
+          "id": "nodejs-fundamentals"
         }
       ]
     },
@@ -73,20 +25,19 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "id": "cloud-fundamentals"
-        },
-        {
-          "name": "GitOps",
-          "short-description": "GitOps",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "name": "Nome do Cartão Customizado 2",
+          "description": "Descrição do Cartão 2",
+          "keyObjectives": ["Objetivo 1.2", "Objetivo 2.2", "Objetivo 3.2"],
           "contents": [
             {
               "type": "SITE",
-              "title": "Portal do ArgoCD",
-              "link": "https://argo-cd.readthedocs.io/en/stable/"
+              "title": "Node.js - Documentation",
+              "link": "https://nodejs.dev/en/learn/"
             }
           ]
+        },
+        {
+          "id": "apollo-client"
         }
       ]
     },
