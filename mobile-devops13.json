@@ -97,12 +97,6 @@
       },
       {
         "name": "Nivel 3 - Avançado",
-        "cards": []
-      }
-    ],
-    "collaborations": [
-      {
-        "name": "Release e Distribuição de apps mobile",
         "cards": [
           {
             "name": "Build e Distribuição de apps Android",
@@ -197,6 +191,22 @@
                 "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
               }
             ]
+          }
+        ]
+      }
+    ],
+    "collaborations": [
+      {
+        "name": "Computação em Nuvem e arquitetura de microsserviços",
+        "cards": [
+          {
+            "id": "cloud-fundamentals"
+          },
+          {
+            "id": "cloud-security"
+          },
+          {
+            "id": "microservices"
           }
         ]
       },
