@@ -319,8 +319,10 @@
           {
             "name": "Fundamentals of Platform Engineering",
             "short-description": "",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": [
+              "Compreender o conceito e a importância da adoção de uma Plataforma de Engenharia em organizações"
+            ],
+            "additional-objectives": [],
             "contents": [
               {
                 "type": "SITE",
@@ -362,8 +364,10 @@
           {
             "name": "Buildind an Internal Developer Platform",
             "short-description": "",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": [
+              "Compreender as vantagem e os desafios no desenvolvimento de uma Plataforma de Desenvolvimento Interna"
+            ],
+            "additional-objectives": [],
             "contents": [
               {
                 "type": "ARTICLE", 
@@ -399,8 +403,23 @@
                 "type": "YOUTUBE",
                 "title": "Platform Enginnering: Platform Culture Playlist - PlatformCon 2022",
                 "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfCIiL2OjNA_JtiuUTbSUsO0"
+              }  
+            ]
+          },
+          {
+            "name": "Plataforma OaaS - Operation as a Service",
+            "short-description": "",
+            "key-objectives": [
+              "A plataforma OaaS (portal.nuvem.bb.com.br) é hoje a principal plataforma para fornecimento de serviços de infraestrutura disponível do BB",
+              "Compreender e disponibilizar serviços de automação através do portal.nuvem.bb.com.br"
+            ],
+            "additional-objectives": [],
+            "contents": [
+              {
+                "type": "ARTICLE", 
+                "title": "Construção de ofertas de serviços no portal.nuvem.bb.com.br",
+                "link": "https://fontes.intranet.bb.com.br/sgh/publico/atendimento/-/wikis/construcao-ofertas/home"
               }
-  
             ]
           }
         ]
