@@ -261,6 +261,39 @@
                 "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
               }
             ]
+          },
+          {
+            "name": "4-key Metrics Devops",
+            "short-description": "",
+            "key-objectives": ["Identificar e implementar a coleta e análise das 4 métricas chave em DevOps"],
+            "additional-objectives": [],
+            "contents": [
+              {
+                "type": "ARTICLE",
+                "title": "Are you an Elite DevOps performer? Find out with the Four Keys Project",
+                "link": "https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance"
+              },
+              {
+                "type": "YOUTUBE",
+                "title": "4 Key Metrics for Digital Efficiency",
+                "link": "https://www.youtube.com/playlist?list=PLL4IWbwYi3FnnAK6LCsIR0_qdjs2XDjYl"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "4 Key Metrics: Quatro Métricas-Chave em eficiência digital",
+                "link": "https://ciandt.com/br/pt-br/article/4-key-metrics-quatro-metricas-chave-em-eficiencia-digital"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "DevOps metrics",
+                "link": "https://www.atlassian.com/devops/frameworks/devops-metrics"
+              },
+              {
+                "type": "ARTICLE",
+                "title": "Experiences from Measuring the DevOps Four Key Metrics: Identifying Areas for Improvement ",
+                "link": "https://www.infoq.com/news/2021/08/measuring-four-key-metrics/"
+              }
+            ]
           }
         ]
       }
