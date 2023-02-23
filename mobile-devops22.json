@@ -176,8 +176,8 @@
           {
             "name": "Build e Distribuição de apps Android",
             "short-description": "",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações Android"],
+            "additional-objectives": [""],
             "contents": [
               {
                 "type": "ARTICLE",
@@ -209,8 +209,8 @@
           {
             "name": "Build e Distribuição de apps iOS",
             "short-description": "",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações iOS"],
+            "additional-objectives": [""],
             "contents": [
               {
                 "type": "SITE",
@@ -242,8 +242,8 @@
           {
             "name": "Mobile DevOps com Fastlane",
             "short-description": "",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": ["Acelerar processo de DevOps Mobile através de soluções existentes no mercado como o Fastlane"],
+            "additional-objectives": [""],
             "contents": [
               {
                 "type": "SITE",
