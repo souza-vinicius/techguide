@@ -6,7 +6,7 @@
         "cards": [
           {
             "name": "Fundamentos de DevOps",
-            "short-description": "Descricao do Cartao",
+            "short-description": "",
             "key-objectives": [
               "DevOps é a combinação de filosofias culturais, práticas e ferramentas que aumentam a capacidade de uma empresa de distribuir aplicativos e serviços em alta velocidade.",
               "Compreender a importância da adocão do DevOps e seus reflexos na entrega de software",
@@ -45,7 +45,7 @@
           },
           {
             "name": "Ferramentas de CI/CD",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": [
               "As ferramentas de CI/CD são ambientes de automação que permitem que os processos de build, testes, publicação e release ocorram de maneira automática, sem intervenção humana.",
               "Compreender os recursos de ferramentas como Jenkins e Gitlab CI",
@@ -66,9 +66,6 @@
             ]
           },
           {
-            "id": "containers"
-          },
-          {
             "id": "python-fundamentals"
           }
         ]
@@ -77,10 +74,17 @@
         "name": "Nivel 2 - Intermediário",
         "cards": [
           {
+            "id": "containers"
+          },
+          {
             "name": "Infraestrutura como Código",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "short-description": "",
+            "key-objectives": [
+              "À medida em que a jornada de DevOps evolui, surge a necessidade de desenvolvimento e manutenção de ambientes de build cada vez mais complexos, combinando soluções on-premisse e em cloud",
+              "Além disso, o processo de CD pode exigir a criação e configuração de novos ambientes como estratégias de deployment",
+              "Utilizar ferramentas de IaaS (Infrastructure as Code) para criação e configuração de infraestrutura"
+            ],
+            "additional-objectives": [],
             "contents": [
               {
                 "type": "ALURAPLUS",
@@ -96,10 +100,18 @@
           },
           {
             "name": "GitOps",
-            "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "short-description": "",
+            "key-objectives": [
+              "Compreender o valor se ter o git como 'única fonte de verdade'",
+              "Compreender a aplicação deste conceito no deployment de aplicações e infraestrutura"
+            ],
+            "additional-objectives": [],
             "contents": [
+              {
+                "type": "ARTICLE",
+                "title": "GitOps: O Futuro da automação de infraestrutura",
+                "link": "https://medium.com/natura-infra-e-devops/gitops-operacao-via-git-push-pull-f1e368d979d2"
+              },
               {
                 "type": "SITE",
                 "title": "Documentação do ArgoCD",
@@ -114,7 +126,7 @@
         "cards": [
           {
             "name": "Build e Distribuição de apps Android",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
@@ -152,7 +164,7 @@
           },
           {
             "name": "Build e Distribuição de apps iOS",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
@@ -185,7 +197,7 @@
           },
           {
             "name": "Mobile DevOps com Fastlane",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
@@ -229,7 +241,7 @@
         "cards": [
           {
             "name": "Fundamentals of Platform Engineering",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
@@ -272,7 +284,7 @@
           },
           {
             "name": "Buildind an Internal Developer Platform",
-            "short-description": "Descrição do Cartão",
+            "short-description": "",
             "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
             "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
             "contents": [
