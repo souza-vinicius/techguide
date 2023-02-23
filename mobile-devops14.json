@@ -5,20 +5,21 @@
         "name": "Nivel 1 - Básico",
         "cards": [
           {
-            "id": "linux-fundamentals"
-          },
-          {
-            "id": "containers"
-          },
-          {
-            "id": "git-and-github-fundamentals"
-          },
-          {
             "name": "Fundamentos de DevOps",
             "short-description": "Descricao do Cartao",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": [
+              "DevOps é a combinação de filosofias culturais, práticas e ferramentas que aumentam a capacidade de uma empresa de distribuir aplicativos e serviços em alta velocidade.",
+              "Compreender a importância da adocão do DevOps e seus reflexos na entrega de software",
+              "Compreender o que significa Integração e Entrega Contínua",
+              "Compreender a metodologia para criação de software 12 fatores"
+            ],
+            "additional-objectives": [],
             "contents": [
+              {
+                "type": "ARTICLE",
+                "title": "O que é o DevOps",
+                "link": "https://aws.amazon.com/pt/devops/what-is-devops/"
+              },
               {
                 "type": "ALURAPLUS",
                 "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
@@ -37,10 +38,20 @@
             ]
           },
           {
+            "id": "git-and-github-fundamentals"
+          },
+          {
+            "id": "linux-fundamentals"
+          },
+          {
             "name": "Ferramentas de CI/CD",
             "short-description": "Descrição do Cartão",
-            "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-            "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+            "key-objectives": [
+              "As ferramentas de CI/CD são ambientes de automação que permitem que os processos de build, testes, publicação e release ocorram de maneira automática, sem intervenção humana.",
+              "Compreender os recursos de ferramentas como Jenkins e Gitlab CI",
+              "Criar e executar pipelines de CI/CD no Jenkins e Gitlab CI"
+            ],
+            "additional-objectives": [],
             "contents": [
               {
                 "type": "ALURAPLUS",
@@ -53,6 +64,9 @@
                 "link": "https://docs.gitlab.com/ee/ci/"
               }
             ]
+          },
+          {
+            "id": "containers"
           },
           {
             "id": "python-fundamentals"
